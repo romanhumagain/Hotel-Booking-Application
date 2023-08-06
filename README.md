@@ -18,6 +18,7 @@
 
 <ul>
   <li>View details of all users registered in the system.</li>
+  <li>View active customer in the hotel.</li>
   <li>Access and manage all booking details made by customers.</li>
   <li>Check the availability of rooms and see which rooms are currently booked.</li>
   <li>Assign available rooms to customers as per their requests.</li>
